@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viveksingh
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning android application development
+- 🌱 I’m currently learning android application development and google firebase, kubernete application deployment. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mail-> chauhanlucky1989221@gmail.com
 
