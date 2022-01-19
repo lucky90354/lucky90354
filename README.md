@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning android application development and google firebase, kubernete application deployment. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... mail-> chauhanlucky1989221@gmail.com
+- 📫 How to reach me ... mail-> sanhgvi858@gmail.com
 
 <!---
 lucky90354/lucky90354 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
