@@ -1,7 +1,7 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://image.shutterstock.com/image-vector/frontend-development-vector-concept-laptop-600w-1590192622.jpg))]
 <h1 align="center">Hi 👋, I'm vivek singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://depositphotos.com/81611508/stock-illustration-web-developer-design.html">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/HaD1.gif">
 
 - 🌱 I’m currently learning **MERN, Flutter**
 
