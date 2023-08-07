@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vivek singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Development, I'm from India </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/vivekthakur991" target="blank"><img src="https://img.shields.io/twitter/follow/vivekthakur991?logo=twitter&style=for-the-badge" alt="vivekthakur991" /></a> </p>
 
-- 🌱 I’m currently learning **MERN, Flutter**
+- 🌱 I’m currently learning **Flutter, Dart**
 
-- 💬 Ask me about **PHP, ReactJs**
+- 💬 Ask me about **MERN, ReactJs, PHP, and API's Architechture**
 
 - 📫 How to reach me **sanghvi858@gmail.com**
 
