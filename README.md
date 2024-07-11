@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vivekthakur991" target="blank"><img src="https://img.shields.io/twitter/follow/vivekthakur991?logo=twitter&style=for-the-badge" alt="vivekthakur991" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🌱 I’m currently learning **Next js, DevSecOps**
 
 - 💬 Ask me about **MERN, ReactJs, PHP, and API's Architechture**
 
