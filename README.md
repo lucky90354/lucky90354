@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Next js, DevSecOps**
 
-- 💬 Ask me about **MERN, ReactJs, PHP, and API's Architechture**
+- 💬 Ask me about **MERN, ReactJs, AWS, and API's Architechture, and PHP**
 
-- 📫 How to reach me **sanghvi858@gmail.com**
+- 📫 How to reach me **vivek.sinh.912@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
