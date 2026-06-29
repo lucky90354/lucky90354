@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/vivekthakur991" target="blank"><img src="https://img.shields.io/twitter/follow/vivekthakur991?logo=twitter&style=for-the-badge" alt="vivekthakur991" /></a> </p>
 
-- 🌱 I’m currently learning **Next js, DevSecOps**
+- 🌱 I’m currently learning **Next.js, DevSecOps**
 
-- 💬 Ask me about **MERN, ReactJs, AWS, and API's Architechture, and PHP**
+- 💬 Ask me about **MERN, AWS, and API's Architechture, and PHP**
 
 - 📫 How to reach me **vivek.sinh.912@gmail.com**
 
